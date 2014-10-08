@@ -1,0 +1,10 @@
+VX-REXX OS/2 V2.13 Build B3
+VRX: Createdb.VRX
+MacroPath: VRM:C:\VXREXX\Projects\Create Database
+EXEPath: 
+RunParameters: 
+RunDirectory: C:\VXREXX\Projects\Create Database
+VRXWindow: __VREMainWindow,1,482,783,5767,8000
+VRXWindow: __VREToolsWindow,1,1631,6926,6541,1694
+UserFile: 1
+UserWindow: Window1,1
